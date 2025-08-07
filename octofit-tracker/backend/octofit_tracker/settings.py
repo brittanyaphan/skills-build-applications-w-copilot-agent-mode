@@ -135,3 +135,6 @@ CORS_ALLOW_METHODS = ['*']
 # https://docs.djangoproject.com/en/4.1/ref/settings/#default-auto-field
 
 DEFAULT_AUTO_FIELD = "django.db.models.BigAutoField"
+
+# Codespace Django REST API endpoint base URL
+CODESPACE_API_BASE_URL = "https://glowing-guacamole-4gx6vg4rpgxhjqw9-8000.app.github.dev/api/"
